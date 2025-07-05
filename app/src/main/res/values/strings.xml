@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">LeetcodeWidget</string>
+    <string name="app_widget_description">LeetCode Progress Widget</string>
+</resources>
